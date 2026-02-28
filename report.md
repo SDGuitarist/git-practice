@@ -7,5 +7,5 @@ Some initial content here.
 
 ## Section 2
 This section was added in the second commit.
-## Section 3
+
 ## Section 3
