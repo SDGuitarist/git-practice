@@ -9,4 +9,5 @@ Some initial content here.
 This section was added in the second commit.
 
 ## Section 3
+
 We should write about API endpoints here.
